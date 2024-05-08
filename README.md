@@ -21,12 +21,4 @@ This repository contains supplementary files and code for the manuscript titled 
 Information:
 Authors retain copyright of these files, and no reuse/adaptation is permitted without permission. Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author(s).
 
-File Structure:
-- README.md (overview of the repository and instructions)
-- Manuscript_Supplementary_Files/ (directory containing supplementary files for the manuscript)
-    - data/ (data files used in the analysis)
-    - scripts/ (scripts/code used for bioinformatics analysis)
-    - results/ (output/results generated from the analysis)
-- LICENSE (details about the permitted use and distribution of the materials)
-- Contact_Information.md (contact information for the corresponding authors)
 
